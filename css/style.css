@@ -1,0 +1,44 @@
+body{
+    background-color: #12004a;
+}
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    /* padding-top: 100px; */
+}
+.heading h1{
+    padding-left: 100px;
+    font-weight: 900;
+    font-size: 4em;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+.space{
+    padding-top: 80px;
+}
+.rules{
+    color: white;
+    padding-left: 100px;
+    font-weight: 200;
+    font-size: 1.5em;
+    font-family: 'Roboto Slab', serif;
+}
+.btn {
+    padding-top: 100px;
+    padding-left: 100px;
+    height: 300px;
+}
+.btn img{
+    height: 100px;
+}
+#navbar{
+    font-family: 'Roboto Slab', serif;
+}
+#navbar a{
+    transition: all 1s ease-in-out;
+  }
+#navbar a:hover{
+    transform: scale(1.3);
+}
