@@ -23,9 +23,14 @@ To run the Guessing Gauntlet locally, follow these steps:
    git clone https://github.com/Vishesh-04/The-Guessing-Gauntlet.git
 
 
-## Screenshots
-Guessing Gauntlet
+## Interface 
+### Landing Page
 ![Logo](assests/ss.png)
+![Logo](assests/ss1.png)
+
+### Game Console
+![Logo](assests/ss2.png)
+![Logo](assests/ss3.png)
 
 
 
