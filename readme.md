@@ -1,4 +1,5 @@
-![Logo](assests/logo.png)
+<img src="assests/logo.png" alt="drawing" padding-left="100px"/>
+
 # Guessing Gauntlet 
 
 The Guessing Gauntlet is a multiplayer guessing game where three players compete to guess a randomly generated number between 0 and 10. The player who correctly guesses the number wins the game.
