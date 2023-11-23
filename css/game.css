@@ -49,4 +49,13 @@ body {
     font-family: 'Roboto Slab', serif;
     color: white;
   }
-
+  input[type=submit] {
+    background:url(../assests/submit.png);
+    border:0;
+    display:block;
+    height: 100px;
+    width: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
