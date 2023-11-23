@@ -1,4 +1,6 @@
-<img src="assests/logo.png" alt="drawing" padding-right="100px"/>
+<div style="padding-left: 150px;">
+  <img src="assests/logo.png" alt="Your Image">
+</div>
 
 # Guessing Gauntlet 
 
