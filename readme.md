@@ -1,4 +1,4 @@
-<div style="padding-left: 200px;">
+<div style="padding-left: 100px;">
   <img src="assests/logo.png" alt="Your Image">
 </div>
 
