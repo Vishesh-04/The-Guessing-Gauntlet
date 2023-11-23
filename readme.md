@@ -1,4 +1,5 @@
-# Guessing Gauntlet <img src="./assests/logo.png" alt="Guessing Gauntlet" width="25"/>
+![Logo](assests/logo.png)
+# Guessing Gauntlet 
 
 The Guessing Gauntlet is a multiplayer guessing game where three players compete to guess a randomly generated number between 0 and 10. The player who correctly guesses the number wins the game.
 
@@ -19,13 +20,13 @@ To run the Guessing Gauntlet locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/guessing-gauntlet.git
+   git clone https://github.com/Vishesh-04/The-Guessing-Gauntlet.git
 
 
 ## Screenshots
 Guessing Gauntlet
-<!-- ![Logo](./assests/logo.png) -->
-<img src="./assests/ss.png" alt="Guessing Gauntlet" width="500"/>
+![Logo](assests/ss.png)
+
 
 
 <!-- Add additional screenshots as needed -->
@@ -40,13 +41,16 @@ We welcome contributions! Follow these steps to contribute to the Guessing Gaunt
 git checkout -b feature/your-feature-name
 Make your changes and commit them:
 ```
+
+3. Make your changes and commit them:
 ```bash
 git commit -m "Add your feature or fix"
 Push your branch to your fork:
 ```
+4. Push your branch to your fork:
 
 ```bash
 git push origin feature/your-feature-name
 ```
 
-Open a pull request.
+5. Open a pull request.
