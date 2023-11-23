@@ -1,4 +1,4 @@
-<img src="assests/logo.png" alt="drawing" padding-left="100px"/>
+<img src="assests/logo.png" alt="drawing" padding-right="100px"/>
 
 # Guessing Gauntlet 
 
