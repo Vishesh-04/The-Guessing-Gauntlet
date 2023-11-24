@@ -16,14 +16,7 @@ The Guessing Gauntlet is a multiplayer guessing game where three players compete
 
 4. **Determine the Winner**: The player whose guess matches the generated number wins the game.
 
-## Installation
 
-To run the Guessing Gauntlet locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Vishesh-04/The-Guessing-Gauntlet.git
 
 
 ## Interface 
