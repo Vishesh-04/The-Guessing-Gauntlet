@@ -17,7 +17,24 @@ body {
     box-shadow: 0px 0px 20px whitesmoke;
     border-radius: 10px;
 }
+.box1{
+    height: 200px;
+    width: 300px;
+    margin-left: 150px;
+    padding-left: 80px;
+    background: #12004a;
+    display: inline-block;
+    box-shadow: 0px 0px 20px whitesmoke;
+    border-radius: 10px;
+}
 .box h2{
+    margin-top: 40px;
+    padding-bottom: 20px;
+    font-size: 2rem;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+.box1 h2{
     margin-top: 40px;
     padding-bottom: 20px;
     font-size: 2rem;
