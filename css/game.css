@@ -10,6 +10,7 @@ body {
 .box{
     height: 200px;
     width: 300px;
+    margin-top: 30px;
     margin-left: 150px;
     padding-left: 80px;
     background: #12004a;
@@ -28,7 +29,7 @@ body {
     margin-left: 400px;
     padding-left: 80px;
     background: #12004a;
-    display: inline-block;
+    display: relative;
     box-shadow: 0px 0px 20px whitesmoke;
     border-radius: 10px;
     height: 400px; 
@@ -38,9 +39,9 @@ body {
 }
 .box2{
     padding-left: 20px;
-    padding-top: 10px;
+    padding-top: 20px;
     background: #12004a;
-    /* display: inline-block; */
+    display: inline-block;
     box-shadow: 0px 0px 20px whitesmoke;
     border-radius: 10px;
     height: 50px; 
@@ -50,7 +51,7 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 .box1 h2{
-    margin-top: 40px;
+    margin-top: 60px;
     padding-bottom: 20px;
     font-size: 2rem;
     font-family: 'Roboto Slab', serif;
