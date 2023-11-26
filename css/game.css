@@ -78,7 +78,7 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 900px){
     .box{
         padding-left: 40px;
         margin-left: 90px;
