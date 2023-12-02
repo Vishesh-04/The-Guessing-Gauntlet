@@ -59,6 +59,8 @@ function compare() {
 
 
 // Launch the game
+console.log("Hello World");
+console.log("Hello World 1")
 
 
 const form = document.querySelector("#form");

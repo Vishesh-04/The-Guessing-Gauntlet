@@ -1,12 +1,18 @@
 body{
     background-color: #12004a;
 }
-.nav{
+/* .nav{
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 1000;
     /* padding-top: 100px; */
+} */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
 }
 .heading h1{
     padding-left: 100px;
@@ -33,12 +39,12 @@ body{
 .btn img{
     height: 100px;
 }
-#navbar{
+#navbar ul li{
     font-family: 'Roboto Slab', serif;
 }
-#navbar a{
+#navbar ul li a{
     transition: all 1s ease-in-out;
   }
-#navbar a:hover{
+#navbar ul li a:hover{
     transform: scale(1.3);
 }
