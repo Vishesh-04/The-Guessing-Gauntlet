@@ -1,19 +1,20 @@
 body{
     background-color: #12004a;
 }
-/* .nav{
+.nav{
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 1000;
-    /* padding-top: 100px; */
-} */
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
+    background-color: black;
+    opacity: 100%;
 }
+/* .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+} */
 .heading h1{
     padding-left: 100px;
     font-weight: 900;
