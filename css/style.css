@@ -9,6 +9,19 @@ body{
     background-color: black;
     opacity: 100%;
 }
+.pad{
+    padding-left: 80vh;
+}
+@media screen and (max-width:665px) {
+    .pad{
+        padding-left: 50vh;
+    }
+}
+@media screen and (max-width:500px) {
+    .pad{
+        padding-left: 30vh;
+    }
+}
 /* .sticky {
     position: fixed;
     top: 0;
@@ -39,13 +52,4 @@ body{
 }
 .btn img{
     height: 100px;
-}
-#navbar ul li{
-    font-family: 'Roboto Slab', serif;
-}
-#navbar ul li a{
-    transition: all 1s ease-in-out;
-  }
-#navbar ul li a:hover{
-    transform: scale(1.3);
 }
