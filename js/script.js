@@ -1,6 +1,7 @@
 const s1 = document.querySelector("#screen1");
 const s2 = document.querySelector("#screen2");
 function guessnum(count) {
+    document.querySelector("#submit").disabled=true;
     // console.log(`Player ${count} Guess a Number between 0-10`);
     // this.guessNum = prompt("Enter your guess: ");
     let guessNum=-1;

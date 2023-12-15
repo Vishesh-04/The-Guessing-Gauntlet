@@ -73,7 +73,8 @@ body {
     border-radius: 10px;
     color: aliceblue;
 }
-.b{
+
+.btn input{
     cursor: pointer;
 }
 .copyright {
