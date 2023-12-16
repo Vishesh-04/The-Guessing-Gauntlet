@@ -9,6 +9,10 @@ body{
     background-color: black;
     opacity: 100%;
 }
+.corosuel{
+    background-image: url('assests/bg.jpeg'); 
+    height: 950px;
+}
 .pad{
     padding-left: 80vh;
 }
@@ -22,12 +26,6 @@ body{
         padding-left: 30vh;
     }
 }
-/* .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-} */
 .heading h1{
     padding-left: 100px;
     font-weight: 900;

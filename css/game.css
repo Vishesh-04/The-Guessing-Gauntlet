@@ -7,6 +7,13 @@ body {
     padding-top: 80px;
     
 }
+.cont1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -400px;
+    padding-top: 50px;
+}
 .box{
     height: 200px;
     width: 300px;
@@ -97,16 +104,19 @@ body {
     background-repeat: no-repeat;
 }
   input[type=new] {
-    background:url(../assests/new\ game.jpg);
+    background:url(../assests/NEW\ GAME.png);
     border:0;
     display:block;
     height: 100px;
-    width: 200px;
+    width: 300px;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 @media screen and (max-width: 900px){
+    .cont1{
+        margin-left: -10px;
+    }
     .box{
         padding-left: 40px;
         margin-left: 90px;
@@ -124,6 +134,9 @@ body {
     }
 }
 @media screen and (max-width: 750px){
+    .cont1{
+        margin-left: -75px;
+    }
     .box1{
         margin-left: 110px;
         padding-left: 40px;
@@ -148,7 +161,26 @@ body {
         width: 200px;
     }
 }
-
+@media screen and (max-width: 600px){
+    .cont1{
+        margin-left: -50px;
+    }
+}
+@media screen and (max-width: 400px){
+    .cont1{
+        margin-left: -40px;
+    }
+}
+@media screen and (max-width: 350px){
+    .cont1{
+        margin-left: -25px;
+    }
+}
+@media screen and (max-width: 300px){
+    .cont1{
+        margin-left: -20px;
+    }
+}
 .hide{
     display: none;
 }
