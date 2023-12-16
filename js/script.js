@@ -24,7 +24,7 @@ function guessnum(count) {
     }
 }
 function compare() {
-    if (g1.value != "" && g2.value != "" && g3.value != "") {
+    if ((g1.value >=0 && g1.value <=10) && (g2.value >=0 && g2.value<=10) && (g3.value>=0 && g3.value<=10)) {
         document.querySelector("#newGame").classList.remove("hide");
 
         document.querySelector(".submit").classList.add("hide");
