@@ -48,7 +48,6 @@ body {
 }
 .box2 {
   padding-left: 20px;
-  padding-top: 20px;
   background: #12004a;
   display: inline-block;
   box-shadow: 0px 0px 20px whitesmoke;
@@ -58,6 +57,9 @@ body {
   color: white;
   font-size: 1rem;
   font-family: "Roboto Slab", serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .box1 h2 {
   margin-top: 60px;
