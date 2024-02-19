@@ -28,6 +28,9 @@ function compare() {
         document.querySelector("#newGame").classList.remove("hide");
 
         document.querySelector(".submit").classList.add("hide");
+        g1.disabled=true;
+        g2.disabled=true;
+        g3.disabled=true;
 
         const guessNum = Math.floor(Math.random() * 11);
         // const numPlayer1 = document.getElementById('guess1').value;
@@ -83,6 +86,9 @@ const newGame = () => {
     g1.value = "";
     g2.value = "";
     g3.value = "";
+    g1.disabled=false;
+    g2.disabled=false;
+    g3.disabled=false;
 
     document.querySelector("#newGame").classList.add("hide");
 
